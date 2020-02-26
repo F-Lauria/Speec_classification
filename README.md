@@ -15,4 +15,4 @@ After finishing with good results this University Machine Learning challenge, I 
 * CNN 1D
 
 ## Code
-* [all](/code/Speech_recognizition.ipynb)
+* [all](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/Speech_recognizition.ipynb)
