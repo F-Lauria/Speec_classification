@@ -26,7 +26,7 @@ If you want to have a big overview of the project [here](https://nbviewer.jupyte
 
 ## Technologies
 
-All the algorithms are written in Python. The hardwere of my machine is not powerfull so I ran all the models in Google Colab, [here](https://medium.com/better-programming/one-stop-guide-to-google-colab-d67c94d30516) a nice tutorial.
+All the algorithms are written in Python. The hardware of my machine is not powerful so I ran all the models in Google Colab, [here](https://medium.com/better-programming/one-stop-guide-to-google-colab-d67c94d30516) a nice tutorial.
 
 ## Dependencies 
 
