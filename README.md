@@ -21,8 +21,8 @@ If you want to have a big overview of the project [here](/code/Speech_recognizit
 
 * [Data_processing](/code/Data_processing.ipynb)
 * [Decision_forest](/code/Decision_forest.ipynb)
-* [2D CNN](/code/2D-CNN.ipynb)
-* [1D CNN](/code/1D-CNN.ipynb)
+* [2D CNN](/code/2D_CNN.ipynb)
+* [1D CNN](/code/1D_CNN.ipynb)
 
 ## Technologies
 
