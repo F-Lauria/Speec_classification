@@ -17,12 +17,12 @@ After finishing with good results a University Machine Learning challenge, I dec
 Unfortunately I cannot upload here the data because they are too big, in the notebooks I will guide you to download and process them. 
 
 ## Code
-If you want to have a big overview of the project [here](/code/Speech_recognizition.ipynb) you can find it. Otherwise, let me guide you step by step:
+If you want to have a big overview of the project [here](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/Speech_recognizition.ipynb) you can find it. Otherwise, let me guide you step by step:
 
-* [Data_processing](/code/Data_processing.ipynb)
-* [Decision_forest](/code/Decision_forest.ipynb)
-* [2D CNN](/code/2D_CNN.ipynb)
-* [1D CNN](/code/1D_CNN.ipynb)
+* [Data_processing](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/Data_processing.ipynb)
+* [Decision_forest](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/Decision_forest.ipynb)
+* [2D CNN](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/2D_CNN.ipynb)
+* [1D CNN](https://nbviewer.jupyter.org/github/F-Lauria/Speech_classification/blob/master/code/1D_CNN.ipynb)
 
 ## Technologies
 
