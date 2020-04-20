@@ -8,7 +8,7 @@ In this repository you will see how to solve a speech classification task in Pyt
 * [Dependencies](#dependencies)
 
 ## General info
-After finishing with good results a University Machine Learning challenge, I decided to share it with you. This challenge was hosted in [Google CodeLabs](https://codelabs.developers.google.com) and my team reached the *5th* position among 80+ teams. As previously mentioned we will deal with different ML and DL algorithms, namely:
+After finishing with good results a University Machine Learning challenge, I decided to share it with you. This challenge was hosted in [Codalab](https://codalab.org/) and my team reached the *5th* position among 80+ teams. As previously mentioned we will deal with different ML and DL algorithms, namely:
 
 * Decision Forest
 * CNN 2D
@@ -26,7 +26,7 @@ If you want to have a big overview of the project [here](https://nbviewer.jupyte
 
 ## Technologies
 
-All the algorithms are written in Python. The hardwere of my machine is not powerfull so I ran all the models in Google Colab, [here](https://medium.com/better-programming/one-stop-guide-to-google-colab-d67c94d30516) a nice tutorial.
+All the algorithms are written in Python. The hardware of my machine is not powerful so I ran all the models in Google Colab, [here](https://medium.com/better-programming/one-stop-guide-to-google-colab-d67c94d30516) a nice tutorial.
 
 ## Dependencies 
 
