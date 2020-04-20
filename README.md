@@ -17,7 +17,8 @@ After finishing with good results a University Machine Learning challenge, I dec
 Unfortunately I cannot upload here the data because they are too big, in the notebooks I will guide you to download and process them. 
 
 ## Code
-[here](https://github.com/F-Lauria/Speech_classification/blob/master/code/Speech_recognizition.ipynb) 
+You can find the code [Here](https://github.com/F-Lauria/Speech_classification/blob/master/code/Speech_recognizition.ipynb)
+with a description
 
 ## Technologies
 
